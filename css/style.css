@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  .h05 {
+    color: orangered;
+    background-image: url(https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-repeat: no-repeat;
+    height: 416px;
+    width: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .css3 {
+    color: orangered;
+    background-image: url(https://images.unsplash.com/photo-1505685296765-3a2736de412f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-repeat: no-repeat;
+    height: 416px;
+    width: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .java {
+    color: orangered;
+    background-image: url(https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-repeat: no-repeat;
+    height: 416px;
+    width: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1.js,
+  .css,
+  .h {
+    font-size: 65px;
+    font-family: "Akshar", sans-serif;
+    font-family: "Roboto Slab", serif;
+    padding: 180px;
+    text-align: center;
+  }
+  h1.js,
+  .css,
+  .h {
+    font-size: 65px;
+    font-family: "Akshar", sans-serif;
+    font-family: "Roboto Slab", serif;
+    padding: 180px;
+    text-align: center;
+  }
+  h2,
+  p {
+    padding: 1rem;
+    text-align: center;
+  }
+  .html,
+  .csss,
+  .jss {
+    background: orangered;
+    color: rgb(255, 255, 255);
+  }
+  
